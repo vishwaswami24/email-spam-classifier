@@ -1,0 +1,9 @@
+scikit-learn==1.4.2
+numpy==1.26.4
+nltk==3.8.1
+scipy==1.13.0
+joblib==1.4.0
+pandas==2.2.2
+hypothesis==6.100.1
+pytest==8.2.0
+streamlit>=1.32.0
